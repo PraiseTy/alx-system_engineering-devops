@@ -15,3 +15,4 @@ Task 8. Bye bye Betty
 Task 9. Bye bye My first directory
 Task 10. Back to the future
 Task11. Lists
+Task 12. File type
